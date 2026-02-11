@@ -9,7 +9,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "MyLoggerSDK",
-            url: "https://your-cdn.com/MyLoggerSDK-1.0.0.xcframework.zip",
+            url: "https://github.com/coolpeng/MyLoggerSDK-binary/releases/download/1.0.0/MyLoggerSDK-1.0.0.xcframework.zip",
             checksum: "2a85b2bc15ed58cd1c167adaaecf9708953018ae2c2f9db0610630cd0912a977"
         )
     ]
